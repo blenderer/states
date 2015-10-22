@@ -17,9 +17,6 @@
     "spec": "cake spec",
     "build": "cake build"
   },
-  "engines": {
-    "node": "~0.6.11"
-  },
   "dependencies": {},
   "devDependencies": { 
     "vows":           "~0.6.2",
